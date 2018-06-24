@@ -1,0 +1,6 @@
+#
+item.itemProspector.name=Prospector's Pick
+tooltip.itemProspector.0=You can find for a vein within %d blocks
+message.prospector.none=Vein is not found
+message.prospector.few=Found few ores (There is a vein in a little distance)
+message.prospector.many=Found many ores (There is a vein in near)

@@ -1,0 +1,6 @@
+#
+item.itemProspector.name=炭鉱槌
+tooltip.itemProspector.0=%dブロック先の鉱脈まで見つけることができます
+message.prospector.none=鉱脈は見つかりませんでした
+message.prospector.few=少しの鉱石が見つかりました (少し離れた位置に鉱脈があります)
+message.prospector.many=多くの鉱石が見つかりました (近くに鉱脈があります)
